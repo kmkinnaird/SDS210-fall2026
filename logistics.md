@@ -16,6 +16,20 @@ Do **NOT** come to in-person class or student hours, if you are ill.
 
 Failure to respect this policy will result in an email to both the class dean and your advisor. 
 
+## Low(er) Tech Class
+
+This class is designed to be a "low(er) tech" class. This means that we will often have no computers open or out. The instructor will signal when we need our computers. The purpose of this design is to support our learning by making clear when we need and when we do not need technology. Additionally, this version of the class is emphasizing crafting strong mental models for the material, which we then supplement with work in `R`. 
+
+### Generative AI
+
+In general, you should not need to use generative AI technologies in this class. That being said, this technology exists and is becoming increasingly embedded in other systems that we use. If you find yourself reaching for a LLM or other genAI tools, please **document** your use with a five part documentation statement: 
+
+1. What system did you use and which version? 
+2. What prompt did you give it?
+3. What did you get back?
+4. What did you change before submitting the assignment. 
+5. Include a PDF of your full transcript. 
+
 ## Communication
 
 In addition to our synchronous meetings, our class will make of electronic communication, including our class slack, email, and Moodle messages. These methods of communication represent differing levels of formality and collaboration:

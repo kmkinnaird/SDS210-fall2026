@@ -1,4 +1,4 @@
-# Welcome to SDS 220
+# Welcome to SDS 210
 
 I am so excited that you'll be joining this educational journey through 
 statistics! You are now, just by being here, a statistician. This course will 
@@ -8,18 +8,11 @@ help us frame out exactly what that means and also what _statistics_ is.
 You are now a statistician! 
 :::
 
-### Official Course Description
+## Official Course Description
 
-An application-oriented introduction to modern statistical inference: study 
-design, descriptive statistics; random variables; probability and sampling 
-distributions; point and interval estimates; hypothesis tests, resampling 
-procedures and multiple regression. A wide variety of applications from the 
-natural and social sciences are used. Classes meet for lecture/discussion and 
-for a required laboratory that emphasizes analysis of real data. SDS 220 
-satisfies the basic requirement for biological science, engineering, 
-environmental science, neuroscience and psychology. 
+An application-oriented introduction to statistical modeling, covering topics of descriptive statistics, data visualization, point and interval estimates, bivariate and multiple regression modeling, and inferential hypothesis tests using both distributional and resampling methods. Lectures include “hands on” demonstrations of statistical phenomenon, with labs and assignments that emphasize analysis of real data. 
 
-#### Motivating Questions
+### Motivating Questions
 
 There are a few questions motivating our course work: 
 - What is Statistics? 
@@ -27,7 +20,7 @@ There are a few questions motivating our course work:
 - What habits of mind do we need to develop to be effective and ethical 
 statisticians?
 
-#### Course Learning Objectives
+### Course Learning Objectives
 
 By the end of the course, statisticians (ie. you!) will be able to...
 1. Responsibly use sample data to learn about a larger population, using 
@@ -55,11 +48,9 @@ do when beginning a course is to carefully read and examine the syllabus. In
 keeping with that belief, there are a few tasks in this document that will 
 help us build our course community. 
 
-:::{note}
-Please read the syllabus this week and 
-complete these tasks to help shape our community. If you have questions about the syllabus, please ask them!
-:::
 
 ## Course Acknowledgements 
 
 Parts of this course - including slides, activities, and notes - will be from a variety of sources. Materials will be appropriately attributed and will be used in keeping with copyright and fair use laws. 
+
+This course is a version of DataSci 220, _Data-Driven Statistics with AI_ taught at the US Air Force Academy. I was part of the original development and teaching team for that course in Spring 2025. I continue to be in collaboration with the Course Director there, and we will be running similar versions of our courses at the same time with adjustments appropriate for each school. 

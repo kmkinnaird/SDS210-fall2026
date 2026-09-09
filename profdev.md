@@ -18,9 +18,9 @@ this course, your intentional participation is **expected.**
 
 Participation can take many forms, including but not limited to: attending class meetings, being active on our course slack, participating in discussion in class, offering ideas and questions in class or on slack. As a community our class will generate a list on our google drive of what we believe are ways to engage and participate in our course. 
 
-:::{note}
-Our class's definition for participation can be found [here](https://docs.google.com/document/d/11DYaiSDBmKwATeNuHYi0DXPMR0Vrz7GDwsEUO-lvp0c/edit?usp=sharing)
-:::
+```{note}
+Our class's definition for participation can be found [here](https://docs.google.com/document/d/1mhS6uFXQ1ojqG-TSYjWUuib0-QqrEAe7qTO4wDqbLlQ/edit?usp=sharing)
+```
 
 Adding to this list one way that you are called to participate in this course. If you find yourself unwilling or resistant to add to this list, examine this. What is holding you back? What would help propel you to action? 
 
@@ -37,28 +37,13 @@ Participating our course will require more than being physically present; it is 
 - Gathering the fragments of answers to the questions that you and others have posed
 
 
-### Attending class
 
-We are still in the midst of a global pandemic. In keeping with the 
-[Guidelines](https://www.smith.edu/covid19/guidelines-policies) laid out in 
-Smith's Culture of Care, if you are ill and/or have _any_ COVID symptoms, 
-please do **not** come to _in-person_ class. Instead, please log in on zoom. 
-The link can be found on our Moodle site and our slack space. 
 
-You do not need to email me to ask permission to come to class over zoom or in person. However, if you are not able to be in-person for 3 consecutive meetings, then we need to check in. 
-
-Similarly, do not come to student hours nor appointments if you are ill and/or have _any_ COVID symptoms. There will be a zoom link for student hours and a zoom link can be provided for any in-person appointment. 
-
-:::{warning}
-Do **NOT** come to in-person class or student hours, if you are ill and/or have any COVID symptoms. 
-:::
-
-Failure to respect this policy will result in an email to both the class dean and your advisor. 
 
 
 ## Intentional and Reflective Work 
 
-A project involving statistical procedures is rarely a straightforward pursuit with a clear path from beginning to end. I have found the most success when I engage a process of constantly reflecting on where I am in a project compared to where I began and then intentionally determining my next step based on those assessments. In this class, we will reflect frequently. First we will mark the beginning and the end of the semester with a general check-in on where we are in our educational journeys. Throughout the course, you will reflect on what you learned in each lab and will have space to ask questions that are still lingering for you. 
+A project involving statistical procedures is rarely a straightforward pursuit with a clear path from beginning to end. I have found the most success when I engage a process of constantly reflecting on where I am in a project compared to where I began and then intentionally determining my next step based on those assessments. In this class, we will reflect frequently. First we will mark the beginning and the end of the semester with a general check-in on where we are in our educational journeys. 
 
 ## Writing
 
@@ -75,6 +60,4 @@ The project will also scaffold explicit development of writing skills that SDS h
 
 ### Jacobson Center for Writing, Teaching & Learning
 
-Smith has an additional resource for writing support: the Jacobson Center for Writing, Teaching & Learning make an appointment to take your work to the Jacobson Center on [their website](https://www.smith.edu/academics/jacobson-center). In particular, you may choose to bring your work to Peer Writing Tutors Elisabeth Nesmith or Elina Gordon-Halpern, both SDS majors who tutor for the Jacobson Center. Contact Sara Eddy (seddy@smith.edu) for more information about their schedules or how to make an appointment.
-
-<font size="2">The above language about the Jacobson Center was adapted from language from Sara Eddy. Used with permission</font>
+Smith has an additional resource for writing support: the Jacobson Center for Writing, Teaching & Learning make an appointment to take your work to the Jacobson Center on [their website](https://www.smith.edu/academics/jacobson-center). 

@@ -6,6 +6,10 @@ training in statistics. Success in this course will be measured iteratively,
 placing emphasis on the student’s ownership of the learning process and a 
 student’s consistency of effort. 
 
+```{note}
+If you have prior experience with Statistics, please reach out to the instructor. We want to make sure that you are in the right course _for you._
+```
+
 
 ## Stretch Zone
 

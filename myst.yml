@@ -1,0 +1,31 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: c234319f-31c9-4091-877f-8a16534a9a6c
+  title: SDS 210 - Introduction to Statistics
+  # description:
+  # keywords: []
+  authors: Katherine M. Kinnaird
+  github: https://github.com/kmkinnaird/SDS210-fall2026
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  logo: logo.png
+  toc:
+    - file: intro.md
+    - file: intro.md
+    - file: philosophy.md
+    - file: profdev.md
+    - file: logistics.md
+    - file: assignments.md
+    - file: resources.md
+    - file: honorcode.md
+    - file: grading.md
+  exports:
+    - format: pdf
+      template: lapreprint-typst
+      output: exports/SDS210-Syllabus.pdf
+      id: Syllabus-pdf
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

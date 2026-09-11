@@ -157,7 +157,7 @@ Here's how it works:
 
 The following table shows the guaranteed minimum final grade corresponding to the GPA points: 
 
-| GPA points | 4.0 |  3.0 | 2.0 | 1.0 |
+| GPA points | 4.0 |  3.0 | 2.0 | 1.0 |  
 |Guaranteed Grade| A | B | C | D |
 
 The base GPA score will be determined based on the statistical tokens you earn through the GRs:  
